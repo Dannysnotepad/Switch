@@ -1,0 +1,35 @@
+.body{
+   padding: 60px;
+}
+
+.body > img{
+   width: 50%;
+}
+
+#trigger{
+   width: 100%;
+   color: #8098ff;
+   height: 40px;
+   margin-top: 15px;
+   outline: none;
+   font-size: 20px;
+   font-weight: bold;
+   border-radius: 5px;
+   border: 2px solid #8098ff;
+   background-color: white;
+   box-shadow: 0px 2px 0px #8098ff;
+}
+
+#trigger:hover{
+   color: #8098ff;
+   background-color: white;
+   box-shadow: none;
+
+}
+
+#trigger:active{
+   color: #8098ff;
+   background-color: white;
+   box-shadow: none;
+   
+}
